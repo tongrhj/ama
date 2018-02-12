@@ -50,22 +50,32 @@ Learn programming in parallel with tools, best practices, career advice, other r
 https://github.com/kamranahmedse/developer-roadmap
 
 ### Structured lists:
-https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/content/learning/version-control.html
+
+https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/
 
 https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 
-## Ongoing random topics:
+### Computer Science:
+
+[The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook) (**Advice: skip around**)
+
+### Ongoing random topics:
+
 Development: https://www.codenewbie.org/
+
 CS Fundamentals: https://medium.com/basecs
 
 # For inspiration:
-Career Development advice: https://github.com/csswizardry/ama/issues/33
+
+Career Development advice:
+https://github.com/csswizardry/ama/issues/33
 
 Other people's success stories:
+
 https://secondcareerdevs.com/
 
 Local meetups/ communities:
 
-Singapore:
-- https://webuild.sg
-- Chatroom: https://gitter.im/SingaporeJS/discussions
+- Singapore:
+  - https://webuild.sg
+  - Chatroom: https://gitter.im/SingaporeJS/discussions
