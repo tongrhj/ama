@@ -18,6 +18,8 @@ Taking three years off to learn CS, while it might be better for your learning, 
 
 CS is important. But learning it the way CS students do might take too long, or might put you off. This is a suggested workaround.
 
+* [You don't need a CS degree to be a successful engineer](https://medium.com/@swizec/you-dont-need-a-cs-degree-to-be-a-successful-engineer-but-it-helps-d001ce3c3b35)
+
 I believe you should start with fun/ interactive projects. I've found that visual, immediate feedback is most important when learning something new.
 
 So learn HTML, CSS, basic JavaScript.
