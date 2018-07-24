@@ -24,6 +24,10 @@ I believe you should start with fun/ interactive projects. I've found that visua
 
 So learn HTML, CSS, basic JavaScript.
 
+# Big Picture Roadmap
+
+* https://github.com/kamranahmedse/developer-roadmap
+
 # Front end
 
 [Sololearn JavaScript](https://www.sololearn.com/Course/JavaScript/)
@@ -52,14 +56,9 @@ By this point, you've probably heard of all sorts of technology that "real devel
 
 * [What happens when you type google.com into a browser](https://github.com/alex/what-happens-when)
 
-* 
-
 ----
 
 Learn programming in parallel with tools, best practices, career advice, other related fields like visual design and UX, and computer science fundamentals
-
-### Big Picture:
-https://github.com/kamranahmedse/developer-roadmap
 
 ### Structured lists:
 
@@ -71,23 +70,27 @@ https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 
 [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook) (**Advice: skip around**)
 
-### Ongoing random topics:
+[CS Fundamentals (basecs)]
 
-Development: https://www.codenewbie.org/
+[CS Fundamentals (codenewbie)]
 
-CS Fundamentals: https://medium.com/basecs
+### Design
 
-# For inspiration:
+[Design for Non Designers](https://www.youtube.com/watch?v=QR4EbVDkWcI)
 
-Career Development advice:
+# For inspiration and a supportive community:
+
+### Career Development advice:
 https://github.com/csswizardry/ama/issues/33
 
-Other people's success stories:
+### Other people's success stories:
 
-https://secondcareerdevs.com/
+* https://secondcareerdevs.com/
 
-Local meetups/ communities:
+* https://www.codenewbie.org/
 
-- Singapore:
+### Local meetups/ communities:
+
+* Singapore:
   - https://webuild.sg
   - Chatroom: https://gitter.im/SingaporeJS/discussions
