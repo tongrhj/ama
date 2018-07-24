@@ -18,11 +18,13 @@ Taking three years off to learn CS, while it might be better for your learning, 
 
 CS is important. But learning it the way CS students do might take too long, or might put you off. This is a suggested workaround.
 
-* [You don't need a CS degree to be a successful engineer](https://medium.com/@swizec/you-dont-need-a-cs-degree-to-be-a-successful-engineer-but-it-helps-d001ce3c3b35)
+* [You don't need a CS degree to be a successful engineer but it helps](https://medium.com/@swizec/you-dont-need-a-cs-degree-to-be-a-successful-engineer-but-it-helps-d001ce3c3b35)
 
 I believe you should start with fun/ interactive projects. I've found that visual, immediate feedback is most important when learning something new.
 
 So learn HTML, CSS, basic JavaScript.
+
+# Front end
 
 [Sololearn JavaScript](https://www.sololearn.com/Course/JavaScript/)
 
@@ -43,6 +45,14 @@ By this point, you've probably heard of all sorts of technology that "real devel
 [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 
 [Modern CSS Explained for Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
+
+# Back end
+
+* [SQL Indexing](https://use-the-index-luke.com/)
+
+* [What happens when you type google.com into a browser](https://github.com/alex/what-happens-when)
+
+* 
 
 ----
 
