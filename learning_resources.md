@@ -10,7 +10,7 @@ Building a landing page? [Strikingly](https://strikingly.com), [Squarespace](htt
 
 ----
 
-Disclaimer: YMMV
+_Disclaimer: YMMV_
 
 Ok, you think you want to be a web developer but you don't know if you'll be any good at it/ enjoy it.
 
@@ -68,11 +68,7 @@ https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 
 ### Computer Science:
 
-[The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook) (**Advice: skip around**)
-
-[CS Fundamentals (basecs)]
-
-[CS Fundamentals (codenewbie)]
+[The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook) (Advice: skip around)
 
 ### Design
 
